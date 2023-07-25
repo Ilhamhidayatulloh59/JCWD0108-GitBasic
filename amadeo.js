@@ -10,5 +10,3 @@ const str1 = "madUnyu";
 const str2 = "ganteng";
 
 console.log(compare(str1, str2));
-console.log(compare(str1, str2));
-console.log(compare(str1, str2));
